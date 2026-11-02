@@ -31,6 +31,7 @@ Smaller practice projects, each focused on **one core idea**. Every repo has a R
 | [Run Pace Predictor](https://github.com/mxhsink/pace-predictor) | Data cleaning, time-based split, linear vs ridge regression | MAE 13 s/km (baseline 32 s/km) |
 | [Wine Classifier (SVM)](https://github.com/mxhsink/wine-classifier-svm) | Linear vs RBF SVMs, hyperparameter search | 97.8% test accuracy |
 | [Moons Decision Tree](https://github.com/mxhsink/moons-decision-tree) | Decision trees, grid search, a hand-built random forest | 87.3% test accuracy |
+| [MNIST t-SNE Visualization](https://github.com/mxhsink/mnist-tsne-visualization) | Dimensionality reduction: t-SNE vs PCA, LLE and LDA on 5,000 MNIST digits | t-SNE gives clear clusters for almost every digit |
 
 🔎 Browse by group: [Showcase](https://github.com/search?q=user%3Amxhsink+topic%3Ashowcase&type=repositories) · [Fundamentals](https://github.com/search?q=user%3Amxhsink+topic%3Aml-fundamentals&type=repositories)
 
